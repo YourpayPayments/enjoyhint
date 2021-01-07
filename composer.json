@@ -13,5 +13,11 @@
   },
   "require-dev": {
 
-  }
+  },
+  "repositories":[
+    {
+      "type": "vcs",
+      "url": "git@github.com:xbsoftware/enjoyhint"
+    }
+  ]
 }
