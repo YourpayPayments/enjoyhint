@@ -1,0 +1,17 @@
+{
+  "name": "yourpaypayments/enjoyhint",
+  "description": "Enjoyhint is the chosen library for creating guided tours at yourpay",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mathias Gajhede",
+      "email": "mag@yourpay.io"
+    }
+  ],
+  "require": {
+
+  },
+  "require-dev": {
+
+  }
+}
