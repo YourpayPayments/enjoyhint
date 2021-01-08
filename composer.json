@@ -16,10 +16,10 @@
 
   },
   "extra": {
-    "installer-paths": {
-      "vendor/test": ["vendor/yourpaypayments/enjoyhint"]
+        "installer-paths": {
+            "your/custom/path/{$name}/": ["shama/ftp", "vendor/package"]
+        }
     }
-  },
   "repositories":[
     {
       "type": "vcs",
