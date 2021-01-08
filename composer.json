@@ -15,6 +15,11 @@
   "require-dev": {
 
   },
+  "extra": {
+    "installer-paths": {
+      "src": ["shama/ftp", "vendor/package"]
+    }
+  },
   "repositories":[
     {
       "type": "vcs",
