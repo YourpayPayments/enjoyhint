@@ -17,7 +17,7 @@
   },
   "extra": {
     "installer-paths": {
-      "custom": ["vendor/yourpaypayments/enjoyhint"]
+      "custom": ["vendor/yourpaypayments/enjoyhint"],
       "custom": ["type:design-document"]
     }
   },
