@@ -17,8 +17,7 @@
   },
   "extra": {
     "installer-paths": {
-      "custom": ["vendor/yourpaypayments/enjoyhint"],
-      "custom": ["type:design-document"]
+      "vendor/test": ["type:vcs"]
     }
   },
   "repositories":[
