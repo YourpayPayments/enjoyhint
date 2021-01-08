@@ -9,10 +9,15 @@
     }
   ],
   "require": {
-
+    "composer/installers": "~1.0"
   },
   "require-dev": {
 
+  },
+  "extra": {
+    "installer-paths": {
+      "custom": ["vendor/yourpaypayments/enjoyhint/src"]
+    }
   },
   "repositories":[
     {
