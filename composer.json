@@ -19,7 +19,7 @@
         "installer-paths": {
             "your/custom/path/{$name}/": ["shama/ftp", "vendor/package"]
         }
-    }
+    },
   "repositories":[
     {
       "type": "vcs",
