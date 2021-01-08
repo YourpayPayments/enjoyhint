@@ -1,5 +1,6 @@
 {
   "name": "yourpaypayments/enjoyhint",
+  "type": "design-document",
   "description": "Enjoyhint is the chosen library for creating guided tours at yourpay",
   "license": "MIT",
   "authors": [
@@ -16,7 +17,7 @@
   },
   "extra": {
     "installer-paths": {
-      "custom": ["vendor/yourpaypayments/enjoyhint/src"]
+      "custom": ["type:design-document"]
     }
   },
   "repositories":[
